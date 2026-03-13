@@ -10,3 +10,6 @@ def soma_recursiva(lista):
         return lista[0] + soma_recursiva(lista[1])
 
 print(soma_recursiva(numeros))
+
+
+# nao lembro como fazer 100% desculpa
