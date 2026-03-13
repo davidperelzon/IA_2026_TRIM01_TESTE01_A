@@ -55,7 +55,7 @@ def soma_recursiva(lista):
 # das funções lambda nesse contexto."
 
 RESPOSTA_Q5 = """
-Escreva a sua resposta teórica aqui...
+Essa pratica é abordada porque
 """
 
 if __name__ == "__main__":

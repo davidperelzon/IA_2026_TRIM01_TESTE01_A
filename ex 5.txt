@@ -1,0 +1,18 @@
+"""
+# ==============================================================================
+# Questão 5: Teoria aplicada à IA (20 pontos)
+# ==============================================================================
+# "Na preparação de dados para modelos de Machine Learning, é comum evitarmos 
+# o uso extensivo de laços `for` tradicionais em Python, dando preferência a 
+# abordagens funcionais (como map/filter) ou bibliotecas vetorizadas. 
+# Explique, com as suas palavras, por que essa prática é adotada e qual a vantagem 
+# das funções lambda nesse contexto."
+"""
+"""
+RESPOSTA_Q5 = Essa pratica serve para que utilize menos espaço no computador porque como sabemos para treinar uma maquina é gasto muita memoria 
+e muito tempo porem com o map/filter 
+ele minimiza o uso de memoria e torna o processo mais rapido, alem disso com map/filter
+da para criar funcoes simples e rapidas sem a necessidade de definir uma função completa
+agilizando assim o trabalho.
+
+"""
